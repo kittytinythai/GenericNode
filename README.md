@@ -17,4 +17,4 @@ npm -v
 3. To start the server, run `node app.js`.
 
 ## Functionality
-The express server listens for connections to <http://localhost:3000>. When receiving a connection, the server responds with the message "Hello World!"
+The express server listens for connections to <http://localhost:3000>. When receiving a connection, the server responds with the message "Hello World!". 
